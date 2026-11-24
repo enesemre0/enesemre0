@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hakkımda</h1>
-  <p>Merhabalar Ben Enes Emre, 19 Yaşındayım ve üniversite öğrencisiyim. 2020 yılından 2023 yılına kadar Discord üzerinden bot geliştiriyordum ve CS:GO için plugin (eklenti) yazıyordum. Ayrıca mobil programcılığa da ilgim var, yeni projeler yakında sizlerle.</p>
+  <p>Merhabalar Ben Enes Emre, 21 Yaşındayım ve üniversite öğrencisiyim. 2020 yılından 2023 yılına kadar Discord üzerinden bot geliştiriyordum ve CS:GO için plugin (eklenti) yazıyordum. Ayrıca mobil programcılığa da ilgim var, yeni projeler yakında sizlerle.</p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=enesemre0&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="%100" height="150px">
   <br>
